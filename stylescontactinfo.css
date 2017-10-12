@@ -1,0 +1,6 @@
+body { background: blue; color: red; }
+h1 {color: red; font-size: 30pt; text-align: center; }
+table { color: blue; background-color: red; margin: auto; }
+th,td { padding: 5px; }
+.contactinfotext { text-align: center; color: black; font-size: 15pt; }
+.bottom { width: 1150px;margin: auto; background-color: white; color: black;  }

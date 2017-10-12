@@ -1,0 +1,8 @@
+body { background: blue; color: red; }
+h1 {color: red; font-size: 30pt; text-align: center; }
+.picturestore { float: left; margin: 20px; }
+.picturetruck { float: right }
+table { color: blue; background-color: red; margin: auto; } 
+td,th { padding: 5px;  }
+.aboutustext { font-size: 15pt; color: black; text-align: center; }
+.bottom { width: 1150px;margin: auto; background-color: white; color: black;  }
